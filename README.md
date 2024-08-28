@@ -7,6 +7,8 @@
 4. Mengapa Data menjadi sesuatu yang sangat penting sekarang, dan apa dampak dari kebocoran data
 5. Apa yg anda ketahui mengenai model generative AI ? da apa saja penerapannya
 
+Jawaban 
+
 1. Pekerjaan yang berkaitan dengan mengolah data.
 2. Saya pernah mengolah data mulai dari penambangan data hingga menganalisisnya untuk diambil keputusan.
 3. Suatu program yang bisa sangat membantu umat manusia
