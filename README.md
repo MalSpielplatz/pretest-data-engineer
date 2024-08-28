@@ -7,6 +7,12 @@
 4. Mengapa Data menjadi sesuatu yang sangat penting sekarang, dan apa dampak dari kebocoran data
 5. Apa yg anda ketahui mengenai model generative AI ? da apa saja penerapannya
 
+1. Pekerjaan yang berkaitan dengan mengolah data.
+2. Saya pernah mengolah data mulai dari penambangan data hingga menganalisisnya untuk diambil keputusan.
+3. Suatu program yang bisa sangat membantu umat manusia
+4. Karena jumlah data sekarang ini sangat besar, dan data bisa diolah menjadi berbagai macam, seperti inovasi dan pengembangan suatu produk. Dampak dari kebocoran data yaitu, data yang bocor bisa di salah gunakan, dan bisa menyebabkan kerugian seperti kerugian finansial, juga bisa juga merusak reputasi seseorang atau institusi.
+5. AI yang bisa menciptakan sesuatu yang baru, contohnya AI ini bisa membuat gambar, bisa juga menulis cerita, menciptakan musik, bahkan film.
+
 
 ## Soal Coding
 studi kasus = 
